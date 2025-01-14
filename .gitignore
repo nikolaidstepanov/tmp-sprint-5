@@ -330,3 +330,11 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/node,react,jetbrains+all,visualstudiocode,macos,windows
+
+# Terraform
+*.terraform
+.terraform.lock.hcl
+*.tfstate
+*.terraform.tfstate
+*.tfstate.backup
+terraform.tfvars
